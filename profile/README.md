@@ -1,1 +1,1 @@
-# Darvaza Proxy by JPI Technologies
+# Darvaza Proxy by Apptly Software
